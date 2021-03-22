@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+	<meta name="generator" content="Hugo 0.81.0" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title> Snipcart integration in Hugo! </title>
+  
+  <link id="snipcart-theme" type="text/css" href="https://cdn.snipcart.com/themes/2.0/base/snipcart.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container">
+    <nav>
+      <div class="nav-wrapper">
+        <a href="#" class="brand-logo">Star Trek shop</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li class="snipcart-summary">
+            <a href="#" class="snipcart-checkout">
+              View cart (<span class="snipcart-total-items">0</span>)
+            </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+ 
+
+<section class="container">
+  <div class="row">
+     <div class="col s6">
+    <h2 class="header">Klingon dictionary</h2>
+    <div class="card horizontal">
+        <div class="card-image">
+        <img src="/images/dictionary.jpg">
+        </div>
+        <div class="card-stacked">
+        <div class="card-content">
+            <p>nIvbogh tlhIngan dictionary qaStaHvIS veng SuvwI&#39;</p>
+        </div>
+        <div class="card-action">
+            <button
+                class="snipcart-add-item waves-effect waves-light btn"
+                data-item-id="1"
+                data-item-name="Klingon dictionary"
+                data-item-price="34.87"
+                data-item-url="http://snipcart-hugo.netlify.com">
+                    <i class="material-icons right">shopping_cart</i>
+                    Add to cart
+            </button>
+        </div>
+        </div>
+    </div>
+</div>  <div class="col s6">
+    <h2 class="header">Captain Kirk Phaser</h2>
+    <div class="card horizontal">
+        <div class="card-image">
+        <img src="/images/phaser.png">
+        </div>
+        <div class="card-stacked">
+        <div class="card-content">
+            <p>The Original Series Phaser comprises a small, hand-held Type I Phaser, which slots into a larger Type II Phaser body with a removable pistol-grip.</p>
+        </div>
+        <div class="card-action">
+            <button
+                class="snipcart-add-item waves-effect waves-light btn"
+                data-item-id="2"
+                data-item-name="Captain Kirk Phaser"
+                data-item-price="145.98"
+                data-item-url="http://snipcart-hugo.netlify.com">
+                    <i class="material-icons right">shopping_cart</i>
+                    Add to cart
+            </button>
+        </div>
+        </div>
+    </div>
+</div> 
+  </div>
+</section>
+
+<div class="container">
+    <footer class="page-footer">
+        <div class="footer-copyright">
+            <div class="container">
+                Snipcart integration with Hugo
+            </div>
+        </div>
+    </footer>
+</div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" id="snipcart" src="https://cdn.snipcart.com/scripts/2.0/snipcart.js" data-api-key="M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"></script>
+
+<script>
+    Snipcart.execute('registerLocale', 'en', {
+        powered_by:
+        "HoS 'ej pong ngaQ "
+    }); 
+</script>
+</body>
+</html>
