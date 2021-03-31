@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://ruizmurcia.github.io/ecommerce/"
-title = "Vex | hugo landing page template"
+title = "Pirate Hearts"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"
@@ -94,8 +94,8 @@ weight = 4
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "We love being pirates"
+author = "Pirate Hearts"
 # currency
 currency = "$"
 # contact form action
@@ -122,7 +122,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By Pirate Hearts"
 
 
 ################################### French language #####################################
@@ -132,4 +132,4 @@ languageCode = "fr-fr"
 contentDir = "content/french"
 weight = 2
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By Pirate Hearts"
