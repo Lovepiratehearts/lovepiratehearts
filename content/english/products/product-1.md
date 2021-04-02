@@ -1,24 +1,28 @@
 ---
-title: "Apple Watch"
+title: "Classic Heart Crossbones White T-Shirt"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "images/products/white/mens/white_mockup_Front_Mens-Lifestyle-3_Black.jpg"
+  - "images/products/white/mens/white_mockup_Front_Mens-Lifestyle-2_Black.jpg"
+  - "images/products/white/mens/white_mockup_Front_Mens-Lifestyle_Black.jpg"
+  - "images/products/white/mens/white_mockup_Front_Mens-2_Black.jpg"
 
 # meta description
-description : "this is meta description"
+description : "Classic Heart Crossbones White T-Shirt"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "34.95"
+discount_price: "31.46"
 
 # product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
+sizes : ["s","m","l","xl","xxl"]
+
+# external shop link
+buy_link: "www.google.com"
 
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+This is the original and unique Pirate Hearts t-shirt.
+
+The Heart & Crossbones is our signature logo and it was originally made in this simple, yet classic way.

@@ -5,7 +5,7 @@ $primary-font: 'Josefin Sans',
 sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
-$primary-color: #f9a743;
+$primary-color: #880a68;
 $icon-font: 'themefisher-font' !important;
 
 /*--
@@ -201,7 +201,7 @@ a:active {
   padding: 15px 40px;
   display: inline-block;
   background-color: $primary-color;
-  box-shadow: 0 15px 40px rgba(249, 167, 68, 0.5);
+  box-shadow: 0 15px 40px rgba(213, 68, 249, 0.274);
   background-image: linear-gradient(bottom, rgba(255, 239, 206, 0) 0%, rgba(255, 239, 206, 0.25) 100%);
 
   &:hover,
