@@ -628,3 +628,8 @@ textarea.form-control {
     color: $primary-color;
   }
 }
+
+.dropdown-item:hover{
+  color: #fff;
+  background-color: $primary-color;
+}

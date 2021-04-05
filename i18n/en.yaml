@@ -1,5 +1,14 @@
 - id: "add_to_cart"
   translation: "Add to Cart"
+
+- id: "buy"
+  translation: "Buy"
+
+- id: "buy_from_com"
+  translation: "Buy from EEUU"
+
+- id: "buy_from_es"
+  translation: "Buy from Spain"
   
 - id: "send"
   translation: "Send Now"
@@ -9,12 +18,3 @@
   
 - id: "read_more"
   translation: "Read More"
-  
-- id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "subscribe"
-  translation: "Subscribe"

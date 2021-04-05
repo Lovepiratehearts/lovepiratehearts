@@ -20,6 +20,18 @@ sizes : ["s","m","l","xl","xxl"]
 # external shop link
 buy_link: "www.google.com"
 
+# product marketplaces
+marketplaces : [
+  {
+    name: "com",
+    link: "www.google.com"
+  },
+  {
+    name: "es",
+    link: "www.google.es"
+  }
+]
+
 draft: false
 ---
 
