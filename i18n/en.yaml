@@ -7,14 +7,29 @@
 - id: "buy_from_com"
   translation: "Buy from EEUU"
 
+- id: "buy_from_uk"
+  translation: "Buy from United Kingdom"
+
+- id: "buy_from_de"
+  translation: "Buy from Germany"
+
+- id: "buy_from_fr"
+  translation: "Buy from France"
+
+- id: "buy_from_it"
+  translation: "Buy from Italy"
+
 - id: "buy_from_es"
   translation: "Buy from Spain"
-  
+
+- id: "buy_from_jp"
+  translation: "Buy from Japan"
+
 - id: "send"
   translation: "Send Now"
-  
+
 - id: "subscribe"
   translation: "Subscribe"
-  
+
 - id: "read_more"
   translation: "Read More"
