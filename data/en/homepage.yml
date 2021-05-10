@@ -1,75 +1,70 @@
 ############################# banner ############################
 banner:
-  enable : true
-  title : "We love being pirates!"
-  content : "Thanks for coming to our shop and for your support. We are trying to expand the Pirate Hearts brand and ideas across the world, please share it with everyone. We love taking a 'pirate' approach to live and everything that we do. :-)"
-  image : "images/sunset-heart-white-logo.jpg"
+  enable: true
+  title: "We love being pirates!"
+  content: "Thanks for coming to our shop and for your support. We are trying to expand the Pirate Hearts brand and ideas across the world, please share it with everyone. We love taking a 'pirate' approach to live and everything that we do. :-)"
+  image: "images/sunset-heart-white-logo.jpg"
   button:
-   enable : true
-   label : "Browse All Products"
-   link : "products"
+    enable: true
+    label: "Browse All Products"
+    link: "products"
 
 ############################# promo ############################
 promo:
-  enable : true
-  image : "images/girl-looking.jpg"
-  title : "Designed by professional , the benefit for creative gigs"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
-            nisi, velit atque quaerat impedit ea maxime sunt accusamus at obcaecati dolor iure iusto omnis quis eum.
-            <br><br>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol"
-
+  enable: true
+  image: "images/girl-looking.jpg"
+  title: "We know that sometimes it feels like nobody understands you"
+  content:
+    "It's a feeling that we all have experience and we want to tell you that you are not alone.
+    <br><br>
+    We have build this space for people like us, to be able to express yourself in a unique way."
 
 ############################# About Product #######################
 about_product:
-  enable : true
-  title : "Why Choose Pirate Hearts"
+  enable: true
+  title: "Do you want to join us?"
   items:
     # about product item loop
-    - image : "images/showcase/men-walking-street-black.jpg"
-      title : "Lorem ipsum dolor sit amet."
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate, sed, assumenda. Tenetur
-            sed esse, voluptas voluptate est veniam numquam, quis magni. Architecto minus suscipit
-            quas, quo harum deserunt consequatur cumque!"
+    - image: "images/showcase/men-walking-street-black.jpg"
+      title: "This is unstoppable."
+      content: "More and more people are joining us. People like you, with their own opinions and a diferent way of looking at the world around. Once started, there is no way of stopping us."
       button:
-        enable : false
-        label : "Check Features"
-        link : "#"
+        enable: false
+        label: "Check Features"
+        link: "#"
 
 #################################### Products ########################
 products:
-  enable : true
-  title : "Checkout Our All Products"
-
+  enable: true
+  title: "Checkout Our All Products"
 
 ################################## Subscription ###################
 subscription:
-  enable : true
-  bg_image : "images/colors-football-field-white.jpg"
-  title : "Get Product Updates"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
-  placeholder : "Your Email Address Here"
-
+  enable: true
+  bg_image: "images/colors-football-field-white.jpg"
+  title: "Subscribe to know everything"
+  content: "To be the first to know about our news and updates, enter your email below"
+  placeholder: "Your Email Address Here"
 
 ############################## Testimonial ##########################
 testimonial:
-  enable : true
-  title : "Watch Review"
+  enable: true
+  title: "Some member of our community"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
