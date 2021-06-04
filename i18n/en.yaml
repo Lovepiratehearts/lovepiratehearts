@@ -28,6 +28,9 @@
 - id: "send"
   translation: "Send Now"
 
+- id: "send_success"
+  translation: "Your message has been sent"
+
 - id: "subscribe"
   translation: "Subscribe"
 
