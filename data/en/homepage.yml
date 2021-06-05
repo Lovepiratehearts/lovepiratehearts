@@ -52,19 +52,19 @@ testimonial:
   title: "Some member of our community"
   testimonial_item:
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Emma Karlsson"
+      designation: "Pirate Hearts Pioneer"
+      image: "images/avatar-girl.jpg"
+      content: "Being part of Pirate Hearts is one of the best things of my life!"
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Hugo Miller"
+      designation: "Pirate Hearts Lifestyler"
+      image: "images/avatar-man.jpg"
+      content: "It's not only a brand, it's about my life and how to live it."
 
     # testimonial item loop
-    - name: "Jonathon Andrew"
-      designation: "CEO, Themefisher"
-      image: "images/avater.png"
-      content: "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+    - name: "Karla Andersson"
+      designation: "Pirate Heart Follower"
+      image: "images/avatar-girl-blonde.jpg"
+      content: "I love wearing the Pirate Hearts designs, I simple love them!"
