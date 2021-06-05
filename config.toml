@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://ruizmurcia.github.io/ecommerce/"
+baseurl = "https://lovepiratehearts.github.io/lovepiratehearts/"
 title = "Pirate Hearts"
 theme = "vex-hugo"
 # post excert
