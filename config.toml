@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://lovepiratehearts.github.io/lovepiratehearts/"
+baseurl = "https://www.lovepiratehearts.com/"
 title = "Pirate Hearts"
 theme = "vex-hugo"
 # post excert
