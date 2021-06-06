@@ -5,7 +5,7 @@ theme = "vex-hugo"
 # post excert
 summarylength = "20"
 # google analytics
-googleAnalytics = "" # Ex: UA-123-45
+googleAnalytics = "UA-151967158-1" # Ex: UA-123-45
 # disable language
 disableLanguages = ['Fr'] # disable language from here
 
